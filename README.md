@@ -1,2 +1,3 @@
 # HR_analytics-
 Prediction of job satisfaction and probability of resignation of employees based on HR data (ML)
+HR analytics helps businesses increase employee productivity and monitor turnover. My task was to assist the HR analytics team in doing their work more quickly and efficiently. First, I was able to build a model that, based on the customer’s data, predicts the level of employee job satisfaction within the company. The next task was to build a model that predicts whether an employee will leave the company. As a result, I was able to compile recommendations for managers on how to structure HR processes.
